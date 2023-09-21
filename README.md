@@ -1,8 +1,9 @@
 # Descrição
 
-Neste exercício, você irá criar uma página web que exibe uma galeria de imagens que deverá ser estilizado.
+Neste exercício prático, você irá construir a bandeiras da Ucrânia usando CSS.
 
-O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
+
+O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Model e Flexbox.
 
 **Todas as alterações devem ser feitas nos arquivos já existentes**
 
@@ -12,6 +13,13 @@ O objetivo deste exercício é praticar o uso de seletores CSS pseudo-classes.
 
 ## Instruções:
 
+1. Construa a bandeira da Ucrânia alterando o conteúdo do arquivo **src/index.html** e **src/css/estilo.css**
+1. Sua bandeira deve ficar parecido com a bandeira abaixo:
+  
+<figure>
+	<img src="https://www.worldometers.info/img/flags/up-flag.gif" alt="Bandeira de Ucrânia" width="50%">
+	<figcaption>Bandeira da Ucrânia</figcaption>
+</figure>
 
 ## Recomendações
 
