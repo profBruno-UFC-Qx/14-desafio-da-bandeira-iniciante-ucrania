@@ -17,7 +17,7 @@ O objetivo deste exercício é exercitar o seu conhecimento sobre o CSS Box Mode
 1. Sua bandeira deve ficar parecido com a bandeira abaixo:
   
 <figure>
-	<img src="https://www.worldometers.info/img/flags/up-flag.gif" alt="Bandeira de Ucrânia" width="50%">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/330px-Flag_of_Ukraine.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" alt="Bandeira de Ucrânia" title="Government of Ukraine, Public domain, via Wikimedia Commons" width="50%">
 	<figcaption>Bandeira da Ucrânia</figcaption>
 </figure>
 
